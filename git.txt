@@ -1,0 +1,7 @@
+git config --global user.pass '1934406903jh'
+git config --global user.email '1934406903@qq.com'
+git config --global user.name 'z-jh'
+------------------配置
+git init ---在现有目录中初始化仓库
+git remote add origin https://github.com/z-jh/phpBigwork.git -- 关联github仓库
+git status --查看目录发生那些变化
