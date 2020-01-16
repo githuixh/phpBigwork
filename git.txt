@@ -3,5 +3,9 @@ git config --global user.email '1934406903@qq.com'
 git config --global user.name 'z-jh'
 ------------------配置
 git init ---在现有目录中初始化仓库
-git remote add origin https://github.com/z-jh/phpBigwork.git -- 关联github仓库
+git remote add origin https://github.com/z-jh/phpBigwork.git  -- 关联github仓库
 git status --查看目录发生那些变化
+
+git add * 保存目录所有文件---仅在本地仓库
+git commit -m 'phpwork' 保存并备注
+git push -u origin master 上传到github 仓库
