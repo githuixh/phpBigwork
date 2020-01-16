@@ -8,4 +8,5 @@ git status --查看目录发生那些变化
 
 git add * 保存目录所有文件---仅在本地仓库
 git commit -m 'phpwork' 保存并备注
+git commit -a -m '自动保存所更改文件'
 git push -u origin master 上传到github 仓库
